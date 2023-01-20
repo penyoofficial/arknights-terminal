@@ -1,0 +1,126 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.terminal {
+    float: left;
+    margin-right: 20px;
+    width: 60px;
+    background: #505050;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .3);
+    writing-mode: vertical-lr;
+    text-indent: 16px;
+    line-height: 60px;
+    font-size: 28px;
+    color: white;
+    letter-spacing: 2px;
+}
+
+@media screen and (min-width:332px) {
+    .terminal {
+        height: calc(208px * 16 + 20px);
+    }
+}
+
+@media screen and (min-width:584px) {
+    .terminal {
+        height: calc(208px * 8 + 20px);
+    }
+}
+
+@media screen and (min-width:836px) {
+    .terminal {
+        height: calc(208px * 6 + 20px);
+    }
+}
+
+@media screen and (min-width:1088px) {
+    .terminal {
+        height: calc(208px * 4 + 20px);
+    }
+}
+
+@media screen and (min-width:1592px) {
+    .terminal {
+        height: calc(208px * 3 + 20px);
+    }
+}
+
+.material {
+    --rarity-gray: #a7a7a7;
+    --rarity-green: #e4ed3c;
+    --rarity-blue: #03b7ff;
+    --rarity-purple: #dfccdf;
+    --rarity-gold: #ffcf00;
+    --title-height: 64px;
+
+    float: left;
+    margin: 20px 20px 0 0;
+    padding: 16px 16px 20px;
+    width: 200px;
+    height: 152px;
+    background: linear-gradient(-135deg, #181818, #484848);
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .3);
+    color: white;
+}
+
+.material .material-icon {
+    float: left;
+    width: var(--title-height);
+    height: var(--title-height);
+    background-size: contain;
+}
+
+.material .material-name {
+    margin-bottom: 10px;
+    text-align: right;
+    line-height: var(--title-height);
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+
+.material .material-level {
+    --rc-height: 26px;
+
+    display: grid;
+    grid-template-columns: 40px auto 40%;
+    line-height: var(--rc-height);
+}
+
+.material-level .level-cost {
+    position: relative;
+    transform: scale(66%);
+    text-align: center;
+    border-radius: 4px;
+    background: linear-gradient(-135deg, rgb(181, 30, 30), rgb(80, 0, 0));
+}
+
+.level-cost .cost-title {
+    position: absolute;
+    top: -18px;
+    left: 23%;
+    zoom: 40%;
+    letter-spacing: 4px;
+}
+
+.level-cost .cost {
+    position: absolute;
+    bottom: -4px;
+    left: 30%;
+    zoom: 90%;
+}
+
+.material-level .level-code {
+    text-indent: 2px;
+}
+
+.material-level .purple {
+    background: linear-gradient(90deg, var(--rarity-purple), transparent);
+}
+
+.material-level .level-exceptation {
+    text-align: right;
+}

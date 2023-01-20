@@ -1,0 +1,412 @@
+{
+    "model": {
+        "icon": "",
+        "name": "",
+        "level": [
+            {
+                "cost": "",
+                "code": "",
+                "exceptation": "",
+                "rarity": ""
+            },
+            {
+                "cost": "",
+                "code": "",
+                "exceptation": "",
+                "rarity": ""
+            },
+            {
+                "cost": "",
+                "code": "",
+                "exceptation": "",
+                "rarity": ""
+            }
+        ]
+    },
+    "material": [
+        {
+            "icon": "https://prts.wiki/images/d/d6/%E9%81%93%E5%85%B7_%E5%B8%A6%E6%A1%86_%E9%85%AE%E5%87%9D%E9%9B%86%E7%BB%84.png",
+            "name": "酮凝集组",
+            "level": [
+                {
+                    "cost": "21",
+                    "code": "10-4",
+                    "exceptation": "38.08",
+                    "rarity": ""
+                },
+                {
+                    "cost": "18",
+                    "code": "JT8-3",
+                    "exceptation": "40.18",
+                    "rarity": ""
+                },
+                {
+                    "cost": "15",
+                    "code": "3-1",
+                    "exceptation": "40.70",
+                    "rarity": ""
+                }
+            ]
+        },
+        {
+            "icon": "https://prts.wiki/images/1/14/%E9%81%93%E5%85%B7_%E5%B8%A6%E6%A1%86_%E5%BC%82%E9%93%81%E7%BB%84.png",
+            "name": "异铁组",
+            "level": [
+                {
+                    "cost": "24",
+                    "code": "10-11",
+                    "exceptation": "52.68",
+                    "rarity": "purple"
+                },
+                {
+                    "cost": "21",
+                    "code": "7-18",
+                    "exceptation": "54.85",
+                    "rarity": ""
+                },
+                {
+                    "cost": "21",
+                    "code": "11-11",
+                    "exceptation": "57.40",
+                    "rarity": "purple"
+                }
+            ]
+        },
+        {
+            "icon": "https://prts.wiki/images/1/11/%E9%81%93%E5%85%B7_%E5%B8%A6%E6%A1%86_%E7%B3%96%E7%BB%84.png",
+            "name": "糖组",
+            "level": [
+                {
+                    "cost": "21",
+                    "code": "11-6",
+                    "exceptation": "40.93",
+                    "rarity": ""
+                },
+                {
+                    "cost": "21",
+                    "code": "M8-7",
+                    "exceptation": "42.43",
+                    "rarity": ""
+                },
+                {
+                    "cost": "21",
+                    "code": "10-10",
+                    "exceptation": "44.68",
+                    "rarity": "purple"
+                }
+            ]
+        },
+        {
+            "icon": "https://prts.wiki/images/0/09/%E9%81%93%E5%85%B7_%E5%B8%A6%E6%A1%86_%E8%81%9A%E9%85%B8%E9%85%AF%E7%BB%84.png",
+            "name": "聚酸酯组",
+            "level": [
+                {
+                    "cost": "18",
+                    "code": "7-4",
+                    "exceptation": "32.37",
+                    "rarity": ""
+                },
+                {
+                    "cost": "18",
+                    "code": "5-3",
+                    "exceptation": "36.69",
+                    "rarity": ""
+                },
+                {
+                    "cost": "18",
+                    "code": "3-8",
+                    "exceptation": "46.13",
+                    "rarity": "purple"
+                }
+            ]
+        },
+        {
+            "icon": "https://prts.wiki/images/b/be/%E9%81%93%E5%85%B7_%E5%B8%A6%E6%A1%86_%E5%85%A8%E6%96%B0%E8%A3%85%E7%BD%AE.png",
+            "name": "全新装置",
+            "level": [
+                {
+                    "cost": "21",
+                    "code": "11-7",
+                    "exceptation": "52.03",
+                    "rarity": ""
+                },
+                {
+                    "cost": "18",
+                    "code": "9-10",
+                    "exceptation": "54.11",
+                    "rarity": ""
+                },
+                {
+                    "cost": "18",
+                    "code": "7-15",
+                    "exceptation": "54.22",
+                    "rarity": ""
+                }
+            ]
+        },
+        {
+            "icon": "https://prts.wiki/images/2/2e/%E9%81%93%E5%85%B7_%E5%B8%A6%E6%A1%86_%E5%9B%BA%E6%BA%90%E5%B2%A9%E7%BB%84.png",
+            "name": "固源岩组",
+            "level": [
+                {
+                    "cost": "21",
+                    "code": "10-6",
+                    "exceptation": "27.63",
+                    "rarity": ""
+                },
+                {
+                    "cost": "18",
+                    "code": "7-6",
+                    "exceptation": "29.87",
+                    "rarity": ""
+                },
+                {
+                    "cost": "18",
+                    "code": "6-5",
+                    "exceptation": "29.89",
+                    "rarity": ""
+                }
+            ]
+        },
+        {
+            "icon": "https://prts.wiki/images/7/7c/%E9%81%93%E5%85%B7_%E5%B8%A6%E6%A1%86_RMA70-12.png",
+            "name": "RMA70-12",
+            "level": [
+                {
+                    "cost": "18",
+                    "code": "R8-9",
+                    "exceptation": "52.53",
+                    "rarity": ""
+                },
+                {
+                    "cost": "21",
+                    "code": "9-19",
+                    "exceptation": "52.54",
+                    "rarity": ""
+                },
+                {
+                    "cost": "18",
+                    "code": "7-10",
+                    "exceptation": "52.71",
+                    "rarity": ""
+                }
+            ]
+        },
+        {
+            "icon": "https://prts.wiki/images/e/e7/%E9%81%93%E5%85%B7_%E5%B8%A6%E6%A1%86_%E7%A0%94%E7%A3%A8%E7%9F%B3.png",
+            "name": "研磨石",
+            "level": [
+                {
+                    "cost": "18",
+                    "code": "9-16",
+                    "exceptation": "46.00",
+                    "rarity": ""
+                },
+                {
+                    "cost": "21",
+                    "code": "10-12",
+                    "exceptation": "46.36",
+                    "rarity": ""
+                },
+                {
+                    "cost": "15",
+                    "code": "3-3",
+                    "exceptation": "46.83",
+                    "rarity": ""
+                }
+            ]
+        },
+        {
+            "icon": "https://prts.wiki/images/e/e6/%E9%81%93%E5%85%B7_%E5%B8%A6%E6%A1%86_%E8%BD%BB%E9%94%B0%E7%9F%BF.png",
+            "name": "轻锰矿",
+            "level": [
+                {
+                    "cost": "21",
+                    "code": "10-16",
+                    "exceptation": "38.22",
+                    "rarity": ""
+                },
+                {
+                    "cost": "15",
+                    "code": "3-2",
+                    "exceptation": "40.56",
+                    "rarity": ""
+                },
+                {
+                    "cost": "18",
+                    "code": "7-16",
+                    "exceptation": "41.14",
+                    "rarity": ""
+                }
+            ]
+        },
+        {
+            "icon": "https://prts.wiki/images/a/a8/%E9%81%93%E5%85%B7_%E5%B8%A6%E6%A1%86_%E6%89%AD%E8%BD%AC%E9%86%87.png",
+            "name": "扭转醇",
+            "level": [
+                {
+                    "cost": "21",
+                    "code": "6-11",
+                    "exceptation": "42.75",
+                    "rarity": ""
+                },
+                {
+                    "cost": "21",
+                    "code": "11-13",
+                    "exceptation": "43.52",
+                    "rarity": "purple"
+                },
+                {
+                    "cost": "12",
+                    "code": "2-9",
+                    "exceptation": "45.79",
+                    "rarity": ""
+                }
+            ]
+        },
+        {
+            "icon": "https://prts.wiki/images/4/4b/%E9%81%93%E5%85%B7_%E5%B8%A6%E6%A1%86_%E5%87%9D%E8%83%B6.png",
+            "name": "凝胶",
+            "level": [
+                {
+                    "cost": "18",
+                    "code": "R8-8",
+                    "exceptation": "58.63",
+                    "rarity": ""
+                },
+                {
+                    "cost": "21",
+                    "code": "JT8-2",
+                    "exceptation": "63.17",
+                    "rarity": "purple"
+                },
+                {
+                    "cost": "24",
+                    "code": "11-12",
+                    "exceptation": "63.22",
+                    "rarity": "purple"
+                }
+            ]
+        },
+        {
+            "icon": "https://prts.wiki/images/7/72/%E9%81%93%E5%85%B7_%E5%B8%A6%E6%A1%86_%E7%82%BD%E5%90%88%E9%87%91.png",
+            "name": "炽合金",
+            "level": [
+                {
+                    "cost": "15",
+                    "code": "S3-6",
+                    "exceptation": "37.99",
+                    "rarity": ""
+                },
+                {
+                    "cost": "21",
+                    "code": "11-2",
+                    "exceptation": "44.92",
+                    "rarity": ""
+                },
+                {
+                    "cost": "21",
+                    "code": "11-14",
+                    "exceptation": "49.47",
+                    "rarity": "purple"
+                }
+            ]
+        },
+        {
+            "icon": "https://prts.wiki/images/2/2b/%E9%81%93%E5%85%B7_%E5%B8%A6%E6%A1%86_%E6%99%B6%E4%BD%93%E5%85%83%E4%BB%B6.png",
+            "name": "晶体元件",
+            "level": [
+                {
+                    "cost": "21",
+                    "code": "9-14",
+                    "exceptation": "37.40",
+                    "rarity": ""
+                },
+                {
+                    "cost": "21",
+                    "code": "R8-11",
+                    "exceptation": "38.24",
+                    "rarity": "purple"
+                },
+                {
+                    "cost": "18",
+                    "code": "S5-9",
+                    "exceptation": "54.19",
+                    "rarity": "purple"
+                }
+            ]
+        },
+        {
+            "icon": "https://prts.wiki/images/2/23/%E9%81%93%E5%85%B7_%E5%B8%A6%E6%A1%86_%E5%8D%8A%E8%87%AA%E7%84%B6%E6%BA%B6%E5%89%82.png",
+            "name": "半自然溶剂",
+            "level": [
+                {
+                    "cost": "21",
+                    "code": "9-18",
+                    "exceptation": "63.82",
+                    "rarity": "purple"
+                },
+                {
+                    "cost": "18",
+                    "code": "9-4",
+                    "exceptation": "64.46",
+                    "rarity": "purple"
+                },
+                {
+                    "cost": "24",
+                    "code": "11-8",
+                    "exceptation": "68.86",
+                    "rarity": "purple"
+                }
+            ]
+        },
+        {
+            "icon": "https://prts.wiki/images/6/69/%E9%81%93%E5%85%B7_%E5%B8%A6%E6%A1%86_%E5%8C%96%E5%90%88%E5%88%87%E5%89%8A%E6%B6%B2.png",
+            "name": "化合切削液",
+            "level": [
+                {
+                    "cost": "24",
+                    "code": "10-17",
+                    "exceptation": "44.29",
+                    "rarity": ""
+                },
+                {
+                    "cost": "21",
+                    "code": "11-16",
+                    "exceptation": "60.20",
+                    "rarity": "purple"
+                },
+                {
+                    "cost": "18",
+                    "code": "9-6",
+                    "exceptation": "65.95",
+                    "rarity": "purple"
+                }
+            ]
+        },
+        {
+            "icon": "https://prts.wiki/images/7/7a/%E9%81%93%E5%85%B7_%E5%B8%A6%E6%A1%86_%E8%BD%AC%E8%B4%A8%E7%9B%90%E7%BB%84.png",
+            "name": "转质盐组",
+            "level": [
+                {
+                    "cost": "21",
+                    "code": "11-3",
+                    "exceptation": "67.85",
+                    "rarity": ""
+                },
+                {
+                    "cost": "24",
+                    "code": "11-15",
+                    "exceptation": "71.27",
+                    "rarity": "purple"
+                },
+                {
+                    "cost": "18",
+                    "code": "S9-2",
+                    "exceptation": "76.24",
+                    "rarity": "purple"
+                }
+            ]
+        }
+    ]
+}
