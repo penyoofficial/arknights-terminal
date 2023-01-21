@@ -7,19 +7,19 @@
                 "cost": "",
                 "code": "",
                 "exceptation": "",
-                "rarity": ""
+                "attribute": ""
             },
             {
                 "cost": "",
                 "code": "",
                 "exceptation": "",
-                "rarity": ""
+                "attribute": ""
             },
             {
                 "cost": "",
                 "code": "",
                 "exceptation": "",
-                "rarity": ""
+                "attribute": ""
             }
         ]
     },
@@ -32,19 +32,19 @@
                     "cost": "21",
                     "code": "10-4",
                     "exceptation": "38.08",
-                    "rarity": ""
+                    "attribute": ""
+                },
+                {
+                    "cost": "21",
+                    "code": "10-4",
+                    "exceptation": "38.79",
+                    "attribute": "tribulation"
                 },
                 {
                     "cost": "18",
                     "code": "JT8-3",
                     "exceptation": "40.18",
-                    "rarity": ""
-                },
-                {
-                    "cost": "15",
-                    "code": "3-1",
-                    "exceptation": "40.70",
-                    "rarity": ""
+                    "attribute": ""
                 }
             ]
         },
@@ -55,20 +55,20 @@
                 {
                     "cost": "24",
                     "code": "10-11",
+                    "exceptation": "52.26",
+                    "attribute": "tribulation rare"
+                },
+                {
+                    "cost": "24",
+                    "code": "10-11",
                     "exceptation": "52.68",
-                    "rarity": "purple"
+                    "attribute": "rare"
                 },
                 {
-                    "cost": "21",
-                    "code": "7-18",
-                    "exceptation": "54.85",
-                    "rarity": ""
-                },
-                {
-                    "cost": "21",
-                    "code": "11-11",
-                    "exceptation": "57.40",
-                    "rarity": "purple"
+                    "cost": "12",
+                    "code": "2-8",
+                    "exceptation": "54.66",
+                    "attribute": ""
                 }
             ]
         },
@@ -77,22 +77,22 @@
             "name": "糖组",
             "level": [
                 {
+                    "cost": "12",
+                    "code": "2-5",
+                    "exceptation": "32.63",
+                    "attribute": ""
+                },
+                {
                     "cost": "21",
                     "code": "11-6",
-                    "exceptation": "40.93",
-                    "rarity": ""
+                    "exceptation": "40.99",
+                    "attribute": "tribulation"
                 },
                 {
                     "cost": "21",
-                    "code": "M8-7",
-                    "exceptation": "42.43",
-                    "rarity": ""
-                },
-                {
-                    "cost": "21",
-                    "code": "10-10",
-                    "exceptation": "44.68",
-                    "rarity": "purple"
+                    "code": "11-6",
+                    "exceptation": "42.30",
+                    "attribute": ""
                 }
             ]
         },
@@ -103,20 +103,20 @@
                 {
                     "cost": "18",
                     "code": "7-4",
-                    "exceptation": "32.37",
-                    "rarity": ""
+                    "exceptation": "32.38",
+                    "attribute": ""
+                },
+                {
+                    "cost": "12",
+                    "code": "2-6",
+                    "exceptation": "32.96",
+                    "attribute": "rare"
                 },
                 {
                     "cost": "18",
                     "code": "5-3",
-                    "exceptation": "36.69",
-                    "rarity": ""
-                },
-                {
-                    "cost": "18",
-                    "code": "3-8",
-                    "exceptation": "46.13",
-                    "rarity": "purple"
+                    "exceptation": "36.68",
+                    "attribute": ""
                 }
             ]
         },
@@ -128,19 +128,19 @@
                     "cost": "21",
                     "code": "11-7",
                     "exceptation": "52.03",
-                    "rarity": ""
+                    "attribute": ""
+                },
+                {
+                    "cost": "21",
+                    "code": "11-7",
+                    "exceptation": "52.38",
+                    "attribute": "tribulation"
                 },
                 {
                     "cost": "18",
                     "code": "9-10",
                     "exceptation": "54.11",
-                    "rarity": ""
-                },
-                {
-                    "cost": "18",
-                    "code": "7-15",
-                    "exceptation": "54.22",
-                    "rarity": ""
+                    "attribute": ""
                 }
             ]
         },
@@ -151,20 +151,20 @@
                 {
                     "cost": "21",
                     "code": "10-6",
+                    "exceptation": "27.50",
+                    "attribute": "tribulation"
+                },
+                {
+                    "cost": "21",
+                    "code": "10-6",
                     "exceptation": "27.63",
-                    "rarity": ""
+                    "attribute": ""
                 },
                 {
-                    "cost": "18",
-                    "code": "7-6",
-                    "exceptation": "29.87",
-                    "rarity": ""
-                },
-                {
-                    "cost": "18",
-                    "code": "6-5",
-                    "exceptation": "29.89",
-                    "rarity": ""
+                    "cost": "12",
+                    "code": "2-4",
+                    "exceptation": "28.37",
+                    "attribute": ""
                 }
             ]
         },
@@ -176,19 +176,19 @@
                     "cost": "18",
                     "code": "R8-9",
                     "exceptation": "52.53",
-                    "rarity": ""
+                    "attribute": ""
                 },
                 {
                     "cost": "21",
                     "code": "9-19",
                     "exceptation": "52.54",
-                    "rarity": ""
+                    "attribute": ""
                 },
                 {
                     "cost": "18",
                     "code": "7-10",
                     "exceptation": "52.71",
-                    "rarity": ""
+                    "attribute": ""
                 }
             ]
         },
@@ -200,19 +200,19 @@
                     "cost": "18",
                     "code": "9-16",
                     "exceptation": "46.00",
-                    "rarity": ""
+                    "attribute": ""
                 },
                 {
                     "cost": "21",
                     "code": "10-12",
-                    "exceptation": "46.36",
-                    "rarity": ""
+                    "exceptation": "46.18",
+                    "attribute": "tribulation"
                 },
                 {
-                    "cost": "15",
-                    "code": "3-3",
-                    "exceptation": "46.83",
-                    "rarity": ""
+                    "cost": "21",
+                    "code": "10-12",
+                    "exceptation": "46.37",
+                    "attribute": ""
                 }
             ]
         },
@@ -224,19 +224,19 @@
                     "cost": "21",
                     "code": "10-16",
                     "exceptation": "38.22",
-                    "rarity": ""
+                    "attribute": ""
+                },
+                {
+                    "cost": "21",
+                    "code": "10-16",
+                    "exceptation": "39.24",
+                    "attribute": "tribulation"
                 },
                 {
                     "cost": "15",
                     "code": "3-2",
                     "exceptation": "40.56",
-                    "rarity": ""
-                },
-                {
-                    "cost": "18",
-                    "code": "7-16",
-                    "exceptation": "41.14",
-                    "rarity": ""
+                    "attribute": ""
                 }
             ]
         },
@@ -247,20 +247,20 @@
                 {
                     "cost": "21",
                     "code": "6-11",
-                    "exceptation": "42.75",
-                    "rarity": ""
+                    "exceptation": "42.76",
+                    "attribute": ""
                 },
                 {
                     "cost": "21",
                     "code": "11-13",
                     "exceptation": "43.52",
-                    "rarity": "purple"
+                    "attribute": "rare"
                 },
                 {
-                    "cost": "12",
-                    "code": "2-9",
-                    "exceptation": "45.79",
-                    "rarity": ""
+                    "cost": "21",
+                    "code": "11-13",
+                    "exceptation": "44.63",
+                    "attribute": "tribulation rare"
                 }
             ]
         },
@@ -272,19 +272,19 @@
                     "cost": "18",
                     "code": "R8-8",
                     "exceptation": "58.63",
-                    "rarity": ""
+                    "attribute": ""
                 },
                 {
                     "cost": "21",
-                    "code": "JT8-2",
-                    "exceptation": "63.17",
-                    "rarity": "purple"
+                    "code": "10-3",
+                    "exceptation": "62.85",
+                    "attribute": "tribulation"
                 },
                 {
                     "cost": "24",
                     "code": "11-12",
-                    "exceptation": "63.22",
-                    "rarity": "purple"
+                    "exceptation": "63.18",
+                    "attribute": "rare"
                 }
             ]
         },
@@ -296,19 +296,19 @@
                     "cost": "15",
                     "code": "S3-6",
                     "exceptation": "37.99",
-                    "rarity": ""
+                    "attribute": ""
                 },
                 {
                     "cost": "21",
                     "code": "11-2",
-                    "exceptation": "44.92",
-                    "rarity": ""
+                    "exceptation": "44.94",
+                    "attribute": ""
                 },
                 {
                     "cost": "21",
-                    "code": "11-14",
-                    "exceptation": "49.47",
-                    "rarity": "purple"
+                    "code": "11-2",
+                    "exceptation": "45.12",
+                    "attribute": "tribulation"
                 }
             ]
         },
@@ -320,19 +320,19 @@
                     "cost": "21",
                     "code": "9-14",
                     "exceptation": "37.40",
-                    "rarity": ""
+                    "attribute": ""
                 },
                 {
                     "cost": "21",
                     "code": "R8-11",
-                    "exceptation": "38.24",
-                    "rarity": "purple"
+                    "exceptation": "38.25",
+                    "attribute": "rare"
                 },
                 {
                     "cost": "18",
                     "code": "S5-9",
                     "exceptation": "54.19",
-                    "rarity": "purple"
+                    "attribute": "rare"
                 }
             ]
         },
@@ -341,22 +341,22 @@
             "name": "半自然溶剂",
             "level": [
                 {
+                    "cost": "24",
+                    "code": "11-8",
+                    "exceptation": "61.19",
+                    "attribute": "tribulation rare"
+                },
+                {
                     "cost": "21",
                     "code": "9-18",
                     "exceptation": "63.82",
-                    "rarity": "purple"
+                    "attribute": "rare"
                 },
                 {
                     "cost": "18",
                     "code": "9-4",
                     "exceptation": "64.46",
-                    "rarity": "purple"
-                },
-                {
-                    "cost": "24",
-                    "code": "11-8",
-                    "exceptation": "68.86",
-                    "rarity": "purple"
+                    "attribute": "rare"
                 }
             ]
         },
@@ -367,20 +367,20 @@
                 {
                     "cost": "24",
                     "code": "10-17",
-                    "exceptation": "44.29",
-                    "rarity": ""
+                    "exceptation": "44.28",
+                    "attribute": ""
+                },
+                {
+                    "cost": "24",
+                    "code": "10-17",
+                    "exceptation": "45.86",
+                    "attribute": "tribulation"
                 },
                 {
                     "cost": "21",
                     "code": "11-16",
                     "exceptation": "60.20",
-                    "rarity": "purple"
-                },
-                {
-                    "cost": "18",
-                    "code": "9-6",
-                    "exceptation": "65.95",
-                    "rarity": "purple"
+                    "attribute": "rare"
                 }
             ]
         },
@@ -391,20 +391,20 @@
                 {
                     "cost": "21",
                     "code": "11-3",
-                    "exceptation": "67.85",
-                    "rarity": ""
+                    "exceptation": "66.68",
+                    "attribute": "tribulation rare"
+                },
+                {
+                    "cost": "21",
+                    "code": "11-3",
+                    "exceptation": "67.86",
+                    "attribute": "rare"
                 },
                 {
                     "cost": "24",
                     "code": "11-15",
-                    "exceptation": "71.27",
-                    "rarity": "purple"
-                },
-                {
-                    "cost": "18",
-                    "code": "S9-2",
-                    "exceptation": "76.24",
-                    "rarity": "purple"
+                    "exceptation": "70.29",
+                    "attribute": "tribulation rare"
                 }
             ]
         }
